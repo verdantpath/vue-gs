@@ -8,13 +8,18 @@ This project uses standard web technologies. However, they need to be hosted on 
 If you're looking to get up and running with this quickly, I recommend the awesome [lite-server](https://github.com/johnpapa/lite-server).
 
 ### Running with Lite-Server
-To run this project, open a command prompt. 
+To run this project, open a command prompt.
 Once you've oriented to $SAMPLE_PATH (i.e. C:\Learning\Vue\course-vue-getting-started), run the following:
 
 ```
 npm install
 cd src
 lite-server
+```
+### Had to do this to get it working... (05/2019)
+```
+cd src
+npm run linux
 ```
 
 
@@ -23,6 +28,6 @@ This project complements the [Vue.js: Getting Started training course](https://w
 
 **Disclaimer**
 
-The data used in these samples are a work of fiction. 
-Names, characters, businesses, places, events, things, and incidents are either the products of the author’s imagination or used in a fictitious manner. 
+The data used in these samples are a work of fiction.
+Names, characters, businesses, places, events, things, and incidents are either the products of the author’s imagination or used in a fictitious manner.
 Any resemblance to actual persons, living or dead, or actual products, places, or things is purely coincidental.
